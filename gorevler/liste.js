@@ -1,0 +1,1 @@
+window.DERSLER = [{ id: "tesis", ad: "Tesis Tasarımı ve Malzeme Aktarma Sistemleri", dosyalar: ["gorevler/tesis-hafta1.js", "gorevler/tesis-hafta2.js", "gorevler/tesis-hafta3.js", "gorevler/tesis-hafta4.js", "gorevler/tesis-hafta5.js", "gorevler/tesis-hafta6.js", "gorevler/tesis-hafta7.js", "gorevler/tesis-hafta8.js"] }];
